@@ -15,3 +15,4 @@ def calcular_media(lista):
     for numero in lista:
         soma += numero
     return soma / len(lista)
+
