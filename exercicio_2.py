@@ -14,3 +14,4 @@ def criar_organismo(id, nome, tamanho_do_genoma):
         "nome": nome,
         "tamanho_do_genoma": tamanho_do_genoma
     } 
+
